@@ -1,2 +1,2 @@
 # demo-check-public
-testing permission levels with various cases
+testing permission levels of organizations with various cases
